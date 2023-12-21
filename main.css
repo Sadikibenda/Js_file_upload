@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(161, 237, 168);
+    background-color: rgb(51, 99, 56);
 }
 
 .hero {
@@ -17,6 +17,7 @@ body {
     padding: 40px;
     border-radius: 15px;
     text-align: center;
+    box-shadow: 5px 5px 10px rgb(14, 36, 99);
 
 }
 
@@ -44,5 +45,10 @@ input {
 label:hover {
     background-color: rgb(54, 139, 63);
     color: #fff;
+}
+
+#profile {
+    width: 225px;
+    height: 225px;
 }
 
